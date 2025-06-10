@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="selfieView" type="id" />
+    <item name="buttonTakeSelfie" type="id" />
+    <item name="buttonSendSelfie" type="id" />
+</resources>
